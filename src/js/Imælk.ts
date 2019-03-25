@@ -1,0 +1,3 @@
+interface Imælk {
+    MlMælk:number;
+}
